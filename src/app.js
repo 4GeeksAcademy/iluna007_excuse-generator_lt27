@@ -10,21 +10,21 @@ window.onload = function() {
   console.log("Hello Rigo from the console!");
 };
 
-let whotoblame = ["the dog", "my gramma", "the cat", "your mama"];
-let whattheydid = ["eat", "pissed", "crushed", "broke"];
+let whotoblame = ["la rana", "mi abuelo", "el gato", "el chancho"];
+let whattheydid = ["se comió", "se orinó en", "arruinó", "rompió"];
 let whatdoyouwanttoavoid = [
-  "my homework",
-  "the project",
-  "the model",
-  "the book"
+  "mi tarea",
+  "mi trabajo",
+  "el modelo",
+  "la maqueta"
 ];
 let when = [
-  "before the class",
-  "right in time",
-  "when I finished",
-  "during my breakfast",
-  "during sleep",
-  "michi"
+  "antes de la clase",
+  "justo hace 1 hr",
+  "a penas la termine",
+  "durante la cena",
+  "cuando estaba dormido",
+  "mientras miraba la tele"
 ];
 
 function excusa1() {
